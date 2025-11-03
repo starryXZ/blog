@@ -48,7 +48,17 @@ O projeto foi construído utilizando **Angular, HTML, CSS e TypeScript**, com um
 - CSS — 25.5%
 
 ---
+💡 **Boas Práticas Adotadas**
 
+- ✅ Estrutura modular e escalável  
+- ✅ Componentização e reutilização de código  
+- ✅ Convenções de nomeação Angular (.component.ts, .html, .css)  
+- ✅ Código limpo e organizado  
+- ✅ Estilos centralizados e consistentes  
+- ✅ Separação de responsabilidades entre pages e components  
+
+
+---
 ## 🧠 Estrutura do Projeto
 
 
@@ -100,11 +110,3 @@ O projeto foi construído utilizando **Angular, HTML, CSS e TypeScript**, com um
  ┣ 📜 tsconfig.spec.json
  ┗ 📜 package-lock.json
 
-💡 Boas Práticas Adotadas
-
-✅ Estrutura modular e escalável
-✅ Componentização e reutilização de código
-✅ Convenções de nomeação Angular (.component.ts, .html, .css)
-✅ Código limpo e organizado
-✅ Estilos centralizados e consistentes
-✅ Separação de responsabilidades entre pages e components
