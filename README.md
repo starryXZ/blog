@@ -23,6 +23,14 @@ O projeto foi construído utilizando **Angular, HTML, CSS e TypeScript**, com um
 
 ---
 
+
+## 🖥️ Demonstração do Projeto
+
+<img width="1904" height="947" alt="image" src="https://github.com/user-attachments/assets/e722c836-ea58-480c-bdb0-9b7f9dc8bc76" />
+
+
+---
+
 ## ✨ Funcionalidades
 
 - 🧩 Componentes reutilizáveis (cards, menu, títulos)  
